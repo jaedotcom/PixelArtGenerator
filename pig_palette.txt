@@ -1,0 +1,4 @@
+p:pink
+b:black
+w:white
+d:darkred

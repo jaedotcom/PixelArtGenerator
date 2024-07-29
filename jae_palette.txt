@@ -1,0 +1,6 @@
+g:grey36
+b:grey30
+h:yellow
+w:black
+d:peach puff
+r:red2
